@@ -1,0 +1,1 @@
+La no p5.js nos do 1 ano produzimos um projeto plantando arvores com ajuda da professora Tainara, No projeto, o usuário pode clicar na tela para "plantar" árvores, que aparecem como pequenos brotos inicialmente e, ao longo do tempo ou após ações específicas, crescem transformando-se em árvores completas.
